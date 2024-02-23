@@ -3,7 +3,7 @@
 ##
 
 - 😅 I'm trying to be good dev but i am lazy
-- 🧡 In love with NoPixel <3
+- 🧡 In love with NoPixel 3.0
 
 ##
 
