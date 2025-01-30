@@ -2,7 +2,7 @@
 
 ##
 
-- 😅 I'm trying to be good dev but i am stupid
+- 😅 I'm trying to be good dev but I am stupid
 
 ##
 
@@ -28,7 +28,7 @@
     
 ##
     
-### Want to learn at the future:
+### Want to learn in the future:
     
 <div>
      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
