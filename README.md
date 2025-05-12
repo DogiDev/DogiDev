@@ -2,8 +2,7 @@
 
 ##
 
-- 😅 I'm trying to be good dev but I am stupid
-
+-  💻 Passionate about frontend development, still learning and growing every day
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DogiDev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
