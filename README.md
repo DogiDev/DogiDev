@@ -11,13 +11,7 @@
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DogiDev&layout=compact&langs_count=40&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
-##
 
-## Education:
-
-<div>
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff" />
-</div>
     
 ### Now learning:
 
