@@ -38,6 +38,7 @@
      <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" />
      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+     <img src="https://img.shields.io/badge/Drizzle-00000F?style=for-the-badge&logo=drizzle&logoColor=white" />
      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
 </div>
     
