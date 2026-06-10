@@ -56,7 +56,7 @@
 ##
 
 ### Curently Working on:
-- **new-tube** - YouTube clone made with Next.JS
+- [**new-tube**](<https://github.com/DogiDev/new-tube>) - YouTube clone made with Next.JS
 
 ### Featured Projects:
 - [**next-auth**](<https://github.com/DogiDev/next-auth>) - Next.js authentication system with 2FA support
