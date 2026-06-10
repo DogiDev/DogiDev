@@ -59,9 +59,8 @@
 - **new-tube** - YouTube clone made with Next.JS
 
 ### Featured Projects:
-- **next-auth** - Next.js authentication system with 2FA support
-- **Prisma-DB-Starter** - Beginner-friendly Prisma DB starter kit
-- **podcast-generator** - Python-based podcast generation tool
+- [**next-auth**](<https://github.com/DogiDev/next-auth>) - Next.js authentication system with 2FA support
+- [**Prisma-DB-Starter**](<https://github.com/DogiDev/Prisma-DB-Starter>) - Beginner-friendly Prisma DB starter kit
 
 ##
     
