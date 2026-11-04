@@ -51,9 +51,9 @@ I enjoy learning new technologies, exploring how things work under the hood and 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DogiDev&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DogiDev&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DogiDev&layout=compact&langs_count=8&theme=dark&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DogiDev&layout=compact&langs_count=8&theme=dark&hide_border=true)
 
 </div>
 
